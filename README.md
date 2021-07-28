@@ -2,4 +2,4 @@
 
 ### However you can record screen with external audio input
 
-### System audio is not added to this project yet
+### System audio recorder is not added to this project yet
